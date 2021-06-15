@@ -11,8 +11,8 @@
 
 - ⚡ Fun fact **PHP is gross**
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=kk-1729&theme=algolia&show_icons=true&locale=en&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api?username=kk-1729&langs_count=10&layout=compact&theme=algolia&show_icons=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kk-1729&langs_count=10&theme=algolia&show_icons=true&locale=en&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kk-1729&layout=compact&theme=algolia&show_icons=true&locale=en)
 
 
 
